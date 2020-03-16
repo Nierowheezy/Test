@@ -1,3 +1,4 @@
+
 import React, { Component } from "react";
 
 export default class react extends Component {
@@ -5,3 +6,4 @@ export default class react extends Component {
     return <div>Hello lancer</div>;
   }
 }
+>>>>>>> staging
